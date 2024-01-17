@@ -1,4 +1,4 @@
-const a = 1;
+const a = 11;
 const b = 2;
-const c = a
- + b;//lj
+const c = aa
+ + b;//lj5
